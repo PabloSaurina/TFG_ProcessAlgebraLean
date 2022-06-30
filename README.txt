@@ -2,4 +2,4 @@ Este repositorio contiene el código de Lean utilizado para el TFG, Demostració
 
 El archivo con el código es ProcessAlgebra.lean y se encuentra en la carpeta src.
 
-La versión de Lean utilizada es 3.35.1
+La versión de Lean utilizada es la 3.35.1
